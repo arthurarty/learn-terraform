@@ -1,0 +1,1 @@
+Learning the basics of Terraform to create and manage resources.
